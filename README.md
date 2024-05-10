@@ -1,7 +1,7 @@
-Restaurant Bill Generator
+Restaurant Bill Generator -
 This is a Spring Boot project aimed at generating bills for restaurant orders. It allows users to save menu items, place orders, and automatically generate a bill in PDF format upon order confirmation.
 
-Usage
+Usage -
 Once the application is up and running, you can access it through your web browser at http://localhost:8082.
 
 Dependencies -
