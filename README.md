@@ -12,7 +12,7 @@ Spring Data JPA: for persistence.
 Maven: for project management and dependency resolution.
 PDF generation library (e.g., Apache PDFBox or iText): for creating bills in PDF format.
 
-Usage -
+Features -
 1. Saving Menu Items
 To save menu items, follow these steps:
 
